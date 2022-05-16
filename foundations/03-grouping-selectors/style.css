@@ -1,0 +1,13 @@
+.first {
+    background: black;
+    color: rgb(255,255,255)
+}
+
+.second {
+    background: rgb(211,233,30)
+}
+
+button{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
